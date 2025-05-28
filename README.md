@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0322-coin-change) |
+| [1095-two-city-scheduling](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1095-two-city-scheduling) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1095-two-city-scheduling) |
+## Sorting
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1095-two-city-scheduling) |
 <!---LeetCode Topics End-->
