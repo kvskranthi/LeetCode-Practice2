@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0646-maximum-length-of-pair-chain) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1095-two-city-scheduling](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1095-two-city-scheduling) |
+| [1830-count-good-meals](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1830-count-good-meals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1830-count-good-meals](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1830-count-good-meals) |
 ## Prefix Sum
 |  |
 | ------- |
