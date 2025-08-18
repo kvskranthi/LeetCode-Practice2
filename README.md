@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
