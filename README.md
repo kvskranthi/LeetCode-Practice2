@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0322-coin-change](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
