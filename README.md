@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0322-coin-change](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0455-assign-cookies) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
