@@ -86,13 +86,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0190-reverse-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
