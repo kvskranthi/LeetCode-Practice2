@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0560-subarray-sum-equals-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0646-maximum-length-of-pair-chain) |
 | [1095-two-city-scheduling](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1095-two-city-scheduling) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1830-count-good-meals](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/1830-count-good-meals) |
@@ -87,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
