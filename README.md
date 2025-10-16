@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0338-counting-bits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0678-valid-parenthesis-string) |
 ## Breadth-First Search
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
