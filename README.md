@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
