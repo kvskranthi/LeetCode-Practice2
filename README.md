@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0476-number-complement) |
 ## Divide and Conquer
 |  |
 | ------- |
