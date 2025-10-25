@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0338-counting-bits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0646-maximum-length-of-pair-chain) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0022-generate-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0678-valid-parenthesis-string) |
 ## Stack
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
