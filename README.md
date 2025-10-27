@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0231-power-of-two) |
@@ -131,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/kvskranthi/LeetCode-Practice2/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
